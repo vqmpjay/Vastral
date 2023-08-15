@@ -1,1 +1,1 @@
-player:Kick("fuck you")
+player:Kick("down for a day")
